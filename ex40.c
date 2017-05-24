@@ -12,7 +12,7 @@ int main()
 
 	space = n-1;
 
-	//Here we will divide diamond in 2 parts : Upper and Lower
+	// Here we will divide diamond in 2 parts : Upper and Lower
 
 	// Print upper Part
 	for(k=1;k<=n;k++)
