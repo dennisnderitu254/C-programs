@@ -19,12 +19,13 @@ int main()
     printf("Enter the location where you want to delete the Element\n");
     scanf("%d",&position);
 
-    if(position >= n+1);
+    if(position >= n+1);{
         printf("Deletion not possible.\n");
+    }
 
     // Need some debugging here asap
-    else
-    {
+    if
+
     	for(c=position-1;c<n-1;c++)
     		array[c]=array[c+1];
 
@@ -36,7 +37,7 @@ int main()
 
     	for(c=0;c<n-1;c++)
     	printf("%d\n",array[c]);
-    }
+
 
     return 0;
 
