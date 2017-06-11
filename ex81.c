@@ -1,4 +1,4 @@
-// This is a Co program that does a Reverse Array using Pointers
+// This is a C program that does a Reverse Array using Pointers
 
 #include <stdio.h>
 #define MAX 30
