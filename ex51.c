@@ -17,8 +17,8 @@ int main()
 		scanf("%d",&n);
 
 	/*
-Copying elements into array b
-starting from end of array
+     Copying elements into array b
+       starting from end of array
 
 	*/
 

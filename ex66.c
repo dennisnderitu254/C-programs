@@ -8,6 +8,8 @@ int main()
 {
 	char a[100];
 	int length;
+
+	
 	printf("Enter a string to calculate it's length\n");
 	gets(a);
 

@@ -10,7 +10,8 @@ int main()
 	int c=0,count[26]={0};
 
 	printf("Enter a string\n");
-	scanf("%s",string);
+	 scanf("%s",string);
+	 //gets(string);
 
 	while(string[c]!='\0')
 	{

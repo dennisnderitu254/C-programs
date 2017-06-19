@@ -6,7 +6,7 @@
 void main()
 {
 	int n,array[100],i,a;
-	printf("Enter no of digits in your number:");
+	printf("Enter no of digits in your array:");
 	scanf("%d",&n);
 
 	printf("Enter no.");
