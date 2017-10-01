@@ -1,7 +1,7 @@
 // Print Date Using C
 
 #include <stdio.h>
-#include <conio.h>
+
 #include <dos.h>
 
 int main()
